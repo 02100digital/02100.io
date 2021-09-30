@@ -1,8 +1,8 @@
-<script src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js"></script>;
+<script src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js"></script>
 var items = document.querySelectorAll(".date");
 var dateNum = document.querySelectorAll(".dateNum");
 const dates = [];
-
+console.log("hi das script funktioniert")
 for (var i = 0; i < items.length; i++) {
   dates.push(new Date(items[i].innerText));
   dateNum[i].textContent = dates[i].getTime();
