@@ -1,3 +1,5 @@
+<script src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js"></script>
+
 var items = document.querySelectorAll('.date');
   var dateNum = document.querySelectorAll('.dateNum');
   const dates = [];
