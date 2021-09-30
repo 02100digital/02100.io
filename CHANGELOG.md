@@ -1,0 +1,3 @@
+- Merge pull request #1 from philipschenk/create_first_package
+- No-Ticket: Add package.json
+- Initial commit
