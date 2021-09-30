@@ -1,6 +1,5 @@
-<script>
-	var items = document.querySelectorAll('.date');
-  var dateNum = document.querySelectorAll('.dateNum');
+var items = document.querySelectorAll('.date');
+var dateNum = document.querySelectorAll('.dateNum');
   const dates = [];
   
   for (var i = 0; i < items.length; i++) {
@@ -21,10 +20,6 @@ $('.c-filter-reset').on('click', function() {
 	
 
 });
-
-//$(".c-range-filter_form").click(function() {
- // $("#datefilter")[0].click();
-//});
 
 function SetInputType() {
   var inputStart = document.getElementById('startdate')
@@ -103,12 +98,7 @@ function setRangeFilter() {
 	}
   
 }
-</script>
 
-<!-- Hosted Library script file on CDN for free -->
-<script src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js"></script>
-
-<script>
 (function() {
 	// create a new Library instance and store it in a variable called "projectsGrid"
 	var projectsGrid = new FsLibrary('.c-news-collection')
@@ -140,4 +130,3 @@ function setRangeFilter() {
 			}
   })
 })();
-</script>
