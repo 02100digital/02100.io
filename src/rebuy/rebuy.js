@@ -1,4 +1,4 @@
-
+<script>
 	var items = document.querySelectorAll('.date');
   var dateNum = document.querySelectorAll('.dateNum');
   const dates = [];
@@ -103,8 +103,9 @@ function setRangeFilter() {
 	}
   
 }
-
+</script>
 <script src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js"></script>
+<script>
 (function() {
 	// create a new Library instance and store it in a variable called "projectsGrid"
 	var projectsGrid = new FsLibrary('.c-news-collection')
@@ -136,3 +137,4 @@ function setRangeFilter() {
 			}
   })
 })();
+</script>
