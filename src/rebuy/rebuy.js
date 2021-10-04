@@ -1,4 +1,6 @@
-	var items = document.querySelectorAll('.date');
+console.log(items)
+
+var items = document.querySelectorAll('.date');
   var dateNum = document.querySelectorAll('.dateNum');
   const dates = [];
   
