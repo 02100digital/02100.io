@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "transport": "scp",
+  "uploadOnSave": true,
+  "useAtomicWrites": true,
+  "deleteLocal": true,
+  "hostname": "https://github.com/philipschenk/02100.io.git",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "philipschenk",
+  "password": "Rhq0jx0lj&t3",
+  "watch": [
+    "rebuy.js"
+  ]
+}

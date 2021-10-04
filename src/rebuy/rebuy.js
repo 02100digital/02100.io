@@ -21,6 +21,8 @@ $('.c-filter-reset').on('click', function() {
 
 });
 
+//lets test this push
+
 //$(".c-range-filter_form").click(function() {
  // $("#datefilter")[0].click();
 //});
