@@ -1,4 +1,4 @@
-console.log(items)
+console.log(items);
 
 var items = document.querySelectorAll('.date');
   var dateNum = document.querySelectorAll('.dateNum');
