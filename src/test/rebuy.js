@@ -1,4 +1,4 @@
-alert("My name is?");
+alert("My name is? Leonardo");
 
 console.log(items);
 
