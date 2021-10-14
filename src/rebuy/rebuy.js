@@ -16,7 +16,7 @@ $(".c-filter-reset").on("click", function () {
   inputEnd.type = "text";
   inputStart.value = "Von";
   inputEnd.value = "Bis";
-  //test
+  //test2
 });
 
 //$(".c-range-filter_form").click(function() {
