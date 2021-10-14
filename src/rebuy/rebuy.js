@@ -1,4 +1,4 @@
-document.write(`<script src='https://cdn.finsweet.com/files/cmslibrary-v1.8.js'></script>´);
+document.write(`<script src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js"></script>´);
 
 (function() {
 	// create a new Library instance and store it in a variable called "projectsGrid"
