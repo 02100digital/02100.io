@@ -1,4 +1,3 @@
-alert("My name is? Peclat");
 <script src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js"></script>
 
 (function() {
