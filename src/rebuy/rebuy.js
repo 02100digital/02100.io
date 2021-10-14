@@ -30,4 +30,4 @@ document.write(`<script src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js">
 			effects: 'fade translate(0px,20px)'
 			}
   })
-})();
+})()
