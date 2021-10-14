@@ -1,4 +1,4 @@
-alert("My name is? Peclat");
+alert("My name is? Philip");
 
 console.log(items);
 
