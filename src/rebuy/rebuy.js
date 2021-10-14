@@ -1,3 +1,4 @@
+<script type="text/javascript" src="https://cdn.finsweet.com/files/cmslibrary-v1.8.js"></script>
 (function() {
 	// create a new Library instance and store it in a variable called "projectsGrid"
 	var projectsGrid = new FsLibrary('.c-news-collection')
